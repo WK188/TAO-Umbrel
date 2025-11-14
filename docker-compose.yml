@@ -1,6 +1,6 @@
 services:
   umbrel:
-    image: tao9317/tao-umbrel:1.5.0
+    image: tao9317/tao-umbrel:latest
 
     container_name: umbrel
     pid: host
