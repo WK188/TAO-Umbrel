@@ -91,17 +91,7 @@ to access the UmbrelOS web interface.
 
 ---
 
-# 💬 Community (Note: Official support not provided for this image)
 
-Umbrel official community (no support for this Docker image):
-
-- Discord  
-- Reddit  
-- Community Forum  
-
-You can discuss UmbrelOS features here, but **do not expect official support for this image**.
-
----
 
 # 📜 License
 
